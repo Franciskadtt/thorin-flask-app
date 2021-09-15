@@ -8,12 +8,8 @@ This is a solution to the a challenge from the [Code Institute
 
 ### The challenge
 
-- 
+As part of the Code Institute Backend Module, this a project to create a fan page for The Hobbit – for Thorin and his company of dwarves. It is a very simple Flask app using HTML, CSS, Javascript and Python.
 
-### Screenshots
-
-- [Mobile]()
-- [Desktop]()
 
 ### Links
 
@@ -29,20 +25,6 @@ This is a solution to the a challenge from the [Code Institute
 - Javascript
 - Python
 - MongoDB
-
-### What I learned
-
-
-### Process
-
-
-
-## Coded By
-- Website - [Franciska Du Toit](https://franciskadutoit.com/)
-- Instagram - [@designed.byfranciska
-](https://www.instagram.com/designed.byfranciska/)
-- LinkedIn - [@franciskadutoit
-](https://www.linkedin.com/in/franciskadutoit/)
 
 ## Acknowledgements
 
